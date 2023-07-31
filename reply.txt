@@ -1,0 +1,6 @@
+The Deposite was successful.
+Your new balance is 1860027.00 
+
+
+
+Please deposite 16543.00 to nearest ATM within 32 Hours to avoide extra charges.
